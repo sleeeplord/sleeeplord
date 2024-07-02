@@ -41,5 +41,9 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/sleeeplord/sleeeplord/assets/153128752/5c1d99a4-210c-4a64-88fc-a1cbf04ec46d">
+<img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/f26bfa26-5784-491a-b217-b4d834a03be0">
+</p>
+
+<p align="center">
+  <img width="650" height="80" src="https://github.com/sleeeplord/sleeeplord/assets/174416256/f34b6f25-abfd-4ce8-b254-700cfa028aab">
 </p>
