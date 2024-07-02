@@ -7,5 +7,9 @@
 </p>
 
 <p align="center">
+<img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/37f2a2b9-4aa4-4f4b-95ee-03cda294948c">
+</p>
+
+<p align="center">
   <img width="450" height="150" src="https://github.com/sleeeplord/sleeeplord/assets/174416256/1a9c49a1-9c45-4953-9a9b-6bfbfab688f6">
 </p>
