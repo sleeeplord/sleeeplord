@@ -17,3 +17,7 @@
 <p align="center">
   <img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/5faaaced-83e0-4e33-b97f-9a76142649d5">
 </p>
+
+<p align="center">
+<img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/92c592e1-6441-4b43-af31-1df7ace2b118">
+</p>
