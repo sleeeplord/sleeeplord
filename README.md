@@ -13,3 +13,7 @@
 <p align="center">
   <img width="450" height="150" src="https://github.com/sleeeplord/sleeeplord/assets/174416256/1a9c49a1-9c45-4953-9a9b-6bfbfab688f6">
 </p>
+
+<p align="center">
+  <img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/5faaaced-83e0-4e33-b97f-9a76142649d5">
+</p>
