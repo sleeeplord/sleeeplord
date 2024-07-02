@@ -30,7 +30,7 @@
   <img width="650" height="80" src="https://github.com/sleeeplord/sleeeplord/assets/174416256/c75ffa40-71a1-4036-a509-d05ef2d8570b">
 </p>
 <p align="center">
-  <img width="450" height="150" src="https://github.com/sleeeplord/sleeeplord/assets/174416256/36287cc9-7d4e-4515-8576-fde67529d663">
+  <img width="450" height="80" src="https://github.com/sleeeplord/sleeeplord/assets/174416256/36287cc9-7d4e-4515-8576-fde67529d663">
 </p>
 <p align="center">
   <img width="650" height="80" src="https://github.com/sleeeplord/sleeeplord/assets/174416256/af7d1bbd-10a4-4a4a-8bb5-87f489753e09">
