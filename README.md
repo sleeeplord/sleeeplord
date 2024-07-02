@@ -1,4 +1,4 @@
-![alt text](https://github.com/sleeeplord/sleeeplord/assets/174416256/ea511f97-b9ca-45f7-a4d7-c896662f9e73)
+![alt text](https://github.com/sleeeplord/sleeeplord/assets/153128752/5c1d99a4-210c-4a64-88fc-a1cbf04ec46d)
 <!--
 **sleeeplord/sleeeplord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
