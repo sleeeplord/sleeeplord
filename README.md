@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img width="650" height="80" src="https://github.com/sleeeplord/sleeeplord/assets/174416256/3bcc8c52-3eb7-406b-b5dd-9310f1bda621">
+  <img width="650" height="80" src="https://github.com/sleeeplord/sleeeplord/assets/174416256/22750df2-7adc-4aff-91e8-a0ed358e3872">
 </p>
