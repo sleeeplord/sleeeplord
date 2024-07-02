@@ -54,11 +54,11 @@
 
 [<img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/64d5f993-8ddb-4721-a469-da15fc626ea7">](https://rentry.co/acornfries)
 
-[<img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/cd4ab5a7-d321-43ab-8f98-01b5c53062e5">](https://rentry.co/acornfries)
+[<img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/cd4ab5a7-d321-43ab-8f98-01b5c53062e5">](https://rentry.co/acornslinks)
 
-[<img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/cd4ab5a7-d321-43ab-8f98-01b5c53062e5">](https://rentry.co/acornfries)
+[<img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/bdc4820a-9ca8-4929-8f08-824aa2975189">](https://retrospring.net/@acornious)
 
-[<img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/bdc4820a-9ca8-4929-8f08-824aa2975189">](https://rentry.co/acornfries)
+[<img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/ce7ae644-546b-42d4-b96b-367817f7006c">](https://www.instagram.com/sleeep_lord/)
 
 <p align="center">
   <img src="https://github.com/sleeeplord/sleeeplord/assets/174416256/5faaaced-83e0-4e33-b97f-9a76142649d5">
