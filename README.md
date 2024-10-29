@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9b9f2e74-7219-476e-882e-748ec23771b0" alt="Sublime's custom image"/>
+  <img src="https://github.com/user-attachments/assets/917c6f03-e6a3-4fe7-96c1-a143c7635d2a" alt="Sublime's custom image"/>
 </p>
